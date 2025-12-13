@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ニャオシグニャル",
+  "base_artist": "みらくらぱーく！",
+  "createdAt": "2025-12-13T09:20:26.651816Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ニャオシグニャル",
+      "artist": "みらくらぱーく!",
+      "has_synced": false,
+      "path": "select/pl_01_ニャオシグニャル_みらくらぱーく!.txt"
+    }
+  ]
+}
